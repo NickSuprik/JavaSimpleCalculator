@@ -21,7 +21,11 @@ This Java-based calculator allows users to perform basic arithmetic operations i
 6. The program will compute and display the result.
 
 ## Example Run
-Enter the first number 10 Enter the second number 5 Choose an operation (Addition)
+Enter the first number 
+10 
+Enter the second number 
+5 
+Choose an operation 
 
 Addition
 
@@ -29,7 +33,9 @@ Subtraction
 
 Multiplication
 
-Division 1 Result: 15.0
+Division 
+1 
+Result: 15.0
 
 
 ## Dependencies
